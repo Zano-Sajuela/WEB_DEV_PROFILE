@@ -154,6 +154,9 @@ nav{
     z-index: 36;
     border-radius: 15px;
 }
+.container1 ul li a{
+    color: #ECF0F3 !important;
+}
 /*
 title
 */

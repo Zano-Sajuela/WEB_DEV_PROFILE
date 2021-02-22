@@ -32,11 +32,11 @@ html{
 
 }
 i{
-    color: gray !important;
+    color: #cecece !important;
 }
-i:hover{
+/* i:hover{
     color: whitesmoke !important;
-}
+} */
 .icon ul li:before{
 	position: absolute;
 	content: '';
